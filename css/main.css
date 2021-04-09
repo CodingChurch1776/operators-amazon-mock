@@ -38,3 +38,27 @@ form input[type="submit"]{
     border-color: #a88734 #9c7e31 #846a29;
     font-size: 90%;
 }
+
+.forgot {
+    color: rgb(23, 110, 139);
+    
+    
+}
+
+.help {
+    color: rgb(23, 110, 139);
+
+}
+
+.new {
+    display: inline;
+}
+
+.col-md-8 {
+    margin-top: 50px;
+    font-size: small;
+    height: auto;
+}
+.copyright {
+   font-size: xx-small;
+}
